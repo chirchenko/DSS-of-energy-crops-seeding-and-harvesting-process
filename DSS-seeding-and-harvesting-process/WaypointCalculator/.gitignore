@@ -1,0 +1,8 @@
+/bin/
+/database.db
+/diagram.png
+/diagram.ucls
+/log.txt
+/classes/
+/dist/
+*.iml
